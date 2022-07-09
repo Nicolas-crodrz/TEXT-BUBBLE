@@ -3,7 +3,7 @@
 # **Desarrollado por Nicolás Cabrera Rodríguez**
 # 🫧 **Texto animado con efecto de burbujas** 🫧
 
-![Burbujas](TEXT-ANIMATION-BUBBLE/img/BubbleGIF.gif)
+![Burbujas](TEXT-BUBBLE/TEXT-ANIMATION/img/BubbleGIF.gif)
 
 ## Tenemos los siguientes **campos** a destacar:
 
@@ -67,6 +67,8 @@ Calcula la distancia entre las particulas y las mueve.
 ># **ENGLISH**
 # **Developed by Nicolás Cabrera Rodríguez**
 # 🫧 **Animated Bubble Text** 🫧
+
+![Burbujas](TEXT-BUBBLE/TEXT-ANIMATION/img/BubbleGIF.gif)
 
 ## We have the following **fields** to highlight:
 
