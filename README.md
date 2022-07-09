@@ -3,6 +3,8 @@
 # **Desarrollado por Nicolás Cabrera Rodríguez**
 # 🫧 **Texto animado con efecto de burbujas** 🫧
 
+![Burbujas](TEXT-ANIMATION-BUBBLE/img/BubbleGIF.gif)
+
 ## Tenemos los siguientes **campos** a destacar:
 
  ### **Colision con el raton**
