@@ -64,6 +64,8 @@ Actualiza la posicion de las particulas
 
 Calcula la distancia entre las particulas y las mueve.
 
+### ***Desarrollado por: Nicolás Cabrera Rodríguez***
+
 ># **ENGLISH**
 # **Developed by Nicolás Cabrera Rodríguez**
 # 🫧 **Animated Bubble Text** 🫧
@@ -128,3 +130,5 @@ Update the position of the particles
  ### **Function to connect the particles**
 
 Calculate the distance between the particles and move them.
+
+### ***Developed by: Nicolás Cabrera Rodríguez***
